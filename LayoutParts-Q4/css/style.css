@@ -1,0 +1,49 @@
+@charset "UTF-8";
+
+.sub-area{
+  display: table;
+  width: 100%;
+  margin-top: 50px;
+}
+
+.red{
+  width: 300px;
+  background-color: #ff7b7b;
+}
+
+.blue{
+  background-color: #7b86ff;
+}
+
+.yellow{
+  width: 300px;
+  background-color: #fff27b;
+}
+
+.green{
+  background-color: #7bff91;
+}
+
+.pink{
+  width: 400px;
+  background-color: #ff7be2;
+}
+
+.orange{
+  width: 400px;
+  background-color: #ffc67b;
+}
+
+.skyblue{
+  background-color: #7bf2ff;
+}
+
+.main--area .sub-area:first-child {
+  margin-top: 0;
+}
+
+.box{
+  display: table-cell;
+  padding: 20px;
+  text-align: center;
+}

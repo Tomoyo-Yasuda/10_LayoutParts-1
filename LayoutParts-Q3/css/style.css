@@ -1,0 +1,33 @@
+@charset "UTF-8";
+table{
+  width: 100%;
+  table-layout: fixed;
+}
+
+th{
+  background-color: #319c4a;
+  line-height: 26px;
+  font-size: 18px;
+}
+
+th, td{
+  border: solid 1px #000;
+  padding: 10px;
+}
+
+td{
+  text-align: center;
+}
+
+tr{
+  background-color: #d5ffc7;
+}
+
+tr:nth-child(even){
+  background-color:#bcbcbc;
+}
+
+tbody tr:last-child{
+  border-top: #ffffff double 1px;
+}
+
