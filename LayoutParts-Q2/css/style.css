@@ -14,4 +14,5 @@ li{
   margin: 30px;
   padding: 10px;
   list-style: none;
+  box-shadow: 0 0 0 6px #655;
 }
