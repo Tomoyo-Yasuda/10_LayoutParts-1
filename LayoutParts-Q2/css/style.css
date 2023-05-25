@@ -4,7 +4,9 @@ ul{
   /* display: flex; */
   display: -webkit-flex;
   justify-content: center;
-  height: auto
+  height: auto;
+  width:780px;
+  margin: auto;
 }
 
 li{
@@ -12,7 +14,7 @@ li{
   outline: 10px solid #655;
   border-radius: 13px;
   background-color: #d2b48c;
-  margin: 30px;
+  margin: 3.8%;
   margin-bottom: 0;
   padding: 10px;
   list-style: none;
