@@ -6,6 +6,7 @@ ul{
   justify-content: center;
   height: auto;
   width:780px;
+  margin-right: -60px;
   margin: auto;
 }
 
@@ -14,8 +15,7 @@ li{
   outline: 10px solid #655;
   border-radius: 13px;
   background-color: #d2b48c;
-  margin: 3.8%;
-  margin-bottom: 0;
+  margin-right: 60px;
   padding: 10px;
   list-style: none;
   box-shadow: 0 0 0 6px #655;
